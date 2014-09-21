@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Door(java.lang.String)
+comment0.text=\r\n\ Creates\ a\ new\ door.\r\n\ @param\ name\ is\ the\ name\ of\ the\ door.\r\n
+comment1.params=value
+comment1.target=void\ setLock(java.lang.Boolean)
+comment1.text=\r\n\ Locks\ or\ unlocks\ the\ door.\r\n\ @param\ value\ true\ if\ we\ want\ to\ lock\ the\ door,\ false\ otherwise.\r\n
+comment2.params=
+comment2.target=java.lang.Boolean\ isLocked()
+comment2.text=\r\n\ Indicates\ whether\ the\ door\ is\ locked\ or\ not.\r\n\ @return\ true\ if\ the\ door\ is\ locked,\ false\ otherwise.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ @return\ the\ name\r\n
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ @param\ name\ the\ name\ to\ set\r\n
+numComments=5

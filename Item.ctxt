@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ description
+comment0.target=Item(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Create\ a\ new\ Item.\r\n\ @param\ name\r\n\ @param\ description\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Return\ a\ name\ of\ the\ item.\ \r\n\ @return\ the\ name\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Define\ the\ name\ of\ the\ item.\r\n\ @param\ name\ the\ name\ to\ set\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Return\ a\ description\ of\ the\ item.\ \ \ \ \ *\ \r\n\ @return\ the\ description\r\n
+comment4.params=description
+comment4.target=void\ setDescription(java.lang.String)
+comment4.text=\r\n\ Define\ the\ description\ of\ the\ item.\r\n\ @param\ description\ the\ description\ to\ set\r\n
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=words
+comment0.target=HelpCommand(CommandWords)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HelpCommand\r\n
+numComments=1

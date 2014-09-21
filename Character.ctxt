@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name\ dialogue
+comment0.target=Character(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Create\ a\ character\ object.\ First\ and\ second\ words\ must\ be\ supplied.\r\n\ \r\n\ @param\ name\r\n\ \ \ \ \ \ \ \ \ \ The\ name\ of\ the\ character\ \r\n\ @param\ dialogue\r\n\ \ \ \ \ \ \ \ \ \ The\ tip\ he\ will\ give\ to\ the\ player\ \ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ @return\ the\ name\ of\ character\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Define\ the\ name\ of\ character\r\n\ @param\ name\r\n\ \ \ \ \ \ \ \ \ \ \ the\ name\ to\ set\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDialogue()
+comment3.text=\r\n\ @return\ the\ dialogue\r\n
+comment4.params=dialogue
+comment4.target=void\ setDialogue(java.lang.String)
+comment4.text=\r\n\ Define\ the\ dialogue\ of\ character\ when\ meeting\r\n\ \r\n\ @param\ dialogue\ \r\n\ \ \ \ \ \ \ \ \ \ the\ dialogue\ to\ set\r\n
+comment5.params=
+comment5.target=boolean\ hasSpoken()
+comment5.text=\r\n\ Check\ if\ character\ has\ spoken\ or\ not\r\n\ \r\n\ @return\ the\ hasSpoken\r\n
+comment6.params=hasSpoken
+comment6.target=void\ setHasSpoken(boolean)
+comment6.text=\r\n\ Define\ if\ character\ has\ spoken\ or\ not\r\n\ \r\n\ @param\ hasSpoken\ \r\n\ \ \ \ \ \ \ \ \ \ the\ hasSpoken\ to\ set\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Trap()
+comment0.text=\r\n\ Create\ a\ random\ trap\r\n\ \r\n\ The\ goal\ of\ this\ method\ is\ to\ choose\ amongst\ \r\n\ rooms\ a\ trap\ which\ consist\ in\ falling\ into\ a\ new\ room\ we\ can\ cross\r\n\ one\ way.\ The\ following\ way\ brings\ the\ player\ to\ the\ bedroom.\r\n\ \r\n
+comment1.params=
+comment1.target=Room\ getChosen_trap()
+comment1.text=\r\n\ @return\ the\ chosen_trap\r\n
+comment2.params=trap
+comment2.target=void\ setChosen_trap(Room)
+comment2.text=\r\n\ @param\ chosen_trap\ the\ chosen_trap\ to\ set\r\n
+comment3.params=
+comment3.target=boolean\ Is_catched_by_trap()
+comment3.text=\r\n\ @return\ the\ is_catched_by_trap\r\n
+comment4.params=trap
+comment4.target=void\ setIs_catched_by_trap(boolean)
+comment4.text=\r\n\ @param\ is_catched_by_trap\ the\ is_catched_by_trap\ to\ set\r\n
+numComments=5
